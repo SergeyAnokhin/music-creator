@@ -206,6 +206,17 @@ tempCodeRunnerFile.py
 # Ruff stuff:
 .ruff_cache/
 
+# Music Creator specific
+media/
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mov
+# but keep small preview files if named with _preview suffix
+!_preview.mp4
+!_preview.png
+
 # PyPI configuration file
 .pypirc
 

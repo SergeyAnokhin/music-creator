@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Song Manifest",
+  "description": "Tracks a poem through all stages of the Music Creator pipeline: source, lyrics, music, visuals, animation, and final assembly.",
+  "type": "object",
+  "required": ["id", "title_ru", "source", "scenes", "timeline"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier — a slug derived from the poem's Russian title",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title_ru": {
+      "type": "string",
+      "description": "Original poem title in Russian"
+    },
+    "title_en": {
+      "type": "string",
+      "description": "Poem title translated to English (optional until needed)"
+    },
+    "source": {
+      "type": "object",
+      "description": "Where the poem came from",
+      "required": ["original_text"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the web page where the poem was found"
+        },
+        "author": {
+          "type": "string",
+          "description": "Poem author"
+        },
+        "title": {
+          "type": "string",
+          "description": "Original title as it appears on the source"
+        },
+        "original_text": {
+          "type": "string",
+          "description": "Full original text of the poem"
+        }
+      }
+    },
+    "lyrics": {
+      "type": "object",
+      "description": "Adapted lyrics for Suno AI music generation",
+      "properties": {
+        "adapted_text": {
+          "type": "string",
+          "description": "Poem text adapted into singable lyrics"
+        },
+        "suno_prompt": {
+          "type": "string",
+          "description": "Natural language prompt describing the desired song"
+        },
+        "suno_tags": {
+          "type": "string",
+          "description": "Comma-separated style/genre tags for Suno, e.g. 'genre:pop, mood:melancholic, instruments:piano'"
+        }
+      }
+    },
+    "music": {
+      "type": "object",
+      "description": "Generated music artifacts",
+      "properties": {
+        "suno_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Link to the song on Suno"
+        },
+        "audio_file": {
+          "type": "string",
+          "description": "Relative path to the local audio file (e.g. 'audio/track.mp3')"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Observations about the result — what worked, what to iterate"
+        }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "description": "Visual scenes that tell the poem's story",
+      "items": {
+        "type": "object",
+        "required": ["scene_number", "description"],
+        "properties": {
+          "scene_number": {
+            "type": "integer",
+            "description": "Scene order in the sequence"
+          },
+          "description": {
+            "type": "string",
+            "description": "Narrative description of what happens in this scene"
+          },
+          "visual_style": {
+            "type": "string",
+            "description": "Art direction / visual style (e.g. 'watercolor', 'cinematic', 'anime', 'oil painting')"
+          },
+          "image_prompt": {
+            "type": "string",
+            "description": "Prompt for generating the first frame of this scene"
+          },
+          "animation_hint": {
+            "type": "string",
+            "description": "How to animate this scene — camera movement, effects, transitions (e.g. 'slow pan right', 'zoom in on eyes', 'particle fade')"
+          },
+          "image_file": {
+            "type": "string",
+            "description": "Relative path to the generated first-frame image"
+          },
+          "video_file": {
+            "type": "string",
+            "description": "Relative path to the generated animation/video clip"
+          }
+        }
+      }
+    },
+    "timeline": {
+      "type": "array",
+      "description": "Chronological log of work done on this poem",
+      "items": {
+        "type": "object",
+        "required": ["stage", "date"],
+        "properties": {
+          "stage": {
+            "type": "string",
+            "enum": ["source", "lyrics", "music", "visuals", "animation", "final"],
+            "description": "Which stage was worked on"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time",
+            "description": "ISO 8601 timestamp of when this stage was completed or updated"
+          },
+          "notes": {
+            "type": "string",
+            "description": "Free-text notes about decisions, iterations, ideas"
+          }
+        }
+      }
+    }
+  }
+}
