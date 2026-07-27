@@ -1,0 +1,47 @@
+Genre, Style, Mood, Instrumentation, Structure, Mastering, Slow-tempo (82 BPM) romantic pop ballad with soft rock undertones, crafted in the spirit of 1990s slow dance hits, Mood is nostalgic, tender, and soulful, evoking the atmosphere of late-night dances or heartfelt radio ballads, Instrumentation includes soft electronic drums with muted snare, warm electric bass, clean electric guitar with subtle reverb, electric piano for melodic softness, airy string pads, and occasional acoustic percussion accents, Male lead vocal with intimate, emotional delivery; no backings or choirs to preserve raw vulnerability, Structure follows a classic ballad line: 0:00 Intro (clean guitar + soft pads) → 0:25 Verse 1 → 1:05 Chorus → 1:45 Short guitar solo → 2:05 Verse 2 → 2:45 Extended Chorus → 3:25 Spoken Outro with slow fade, Mastering aims for −9 LUFS, warm tonal balance, smooth top-end, wide stereo field, and light compression to maintain a soft, immersive feel
+
+[Male_Vocal]
+[Intro]
+[Instrument: Clean Guitar, Soft Pads]
+
+[Verse 1]
+Засыпет снег дороги,
+Завалит скаты крыш.
+Пойду размять я ноги:
+За дверью ты стоишь.
+Одна, в пальто осеннем,
+Без шляпы, без калош,
+Ты борешься с волненьем,
+И мокрый снег жуёшь.
+
+[Chorus]
+Но кто мы и откуда,
+Когда от всех тех лет
+Остались пересуды,
+А нас на свете нет? (нет…)
+
+[Guitar Solo]
+[Instrument: Clean Guitar, Soft Strings]
+
+[Verse 2]
+Течёт вода с косынки
+По рукаву в обшлаг,
+И каплями росинки
+Сверкают в волосах.
+И прядью белокурой
+Озарены: лицо,
+Косынка, и фигура,
+И это пальтецо.
+
+[Chorus]
+Но кто мы и откуда,
+Когда от всех тех лет
+Остались пересуды,
+А нас на свете нет?
+
+[Outro] [Spoken_Shout_Male (тихо, почти шёпотом)]
+И в нём навек засело
+Смиренье этих черт,
+И оттого нет дела,
+Что свет жестокосерд.
+[Fade Out] [Instrument: Soft Guitar, Echoing Pads]

@@ -11,7 +11,11 @@
     "original_text": "Еще не раз вы вспомните меня\nИ весь мой мир волнующий и странный,\nНелепый мир из песен и огня,\nНо меж других единый необманный.\n\nОн мог стать вашим тоже и не стал,\nЕго вам было мало или много,\nДолжно быть, плохо я стихи писал\nИ вас неправедно просил у Бога.\n\nНо каждый раз вы склонитесь без сил\nИ скажете: «Я вспоминать не смею.\nВедь мир иной меня обворожил\nПростой и грубой прелестью своею».\n\n1917"
   },
 
-  "lyrics": {},
+  "lyrics": {
+    "adapted_text": "[Intro]\nВедь мир иной меня обворожил\nПростой и грубой прелестью своею.\n\n[Verse 1]\nОн мог стать вашим тоже и не стал,\nЕго вам было мало или много,\nДолжно быть, плохо я стихи писал\nИ вас неправедно просил у Бога.\n\n[Chorus]\nЕще не раз вы вспомните меня\nИ весь мой мир волнующий и странный,\nНелепый мир из песен и огня,\nНо меж других единый необманный.\n\n[Vocal Interlude]\n\n[Verse 2]\nЕще не раз вы вспомните меня —\nВедь мир иной меня обворожил\nПростой и грубой прелестью своею,\nНо меж других единый необманный.\n\n[Chorus]\n...\n\n[Vocal Interlude]\n\n[Bridge]\nНо каждый раз вы склонитесь без сил\nИ скажете: «Я вспоминать не смею.\nВедь мир иной меня обворожил\nПростой и грубой прелестью своею».\n\n[Chorus]\n...\n\n[Vocal Interlude]\n\n[Outro]\nВы вспомните меня…\nВы вспомните меня…\nЕще не раз вы вспомните меня.",
+    "suno_prompt": "90s Russian tragic pop-ballad, melancholic synthpop, 120 BPM, D-minor. Male lead vocal with warm tenor and emotional delivery, supported by soft male harmonies in chorus. Mood: Bittersweet, nostalgic, dramatic — a farewell confession wrapped in a danceable beat. Instrumentation: Punchy 909 kick, warm analog bass, bright supersaw pad, soft orchestral strings, clean electric guitar arpeggios in the bridge, gated reverb snare in intro, vocoder spoken hook. Structure: 0:00 Intro → 0:18 Verse 1 → 0:48 Chorus → 1:18 Interlude → 1:30 Verse 2 → 2:00 Chorus → 2:30 Interlude → 2:42 Bridge → 3:12 Final Chorus → 3:42 Outro fade. Mastering: Modern clean production, −14 LUFS, wide stereo, light tape saturation.",
+    "suno_tags": "90s Russian pop, melancholic synthpop, male vocal, ballad, nostalgic"
+  },
 
   "music": {},
 
@@ -22,6 +26,16 @@
       "stage": "source",
       "date": "2026-07-27T22:30:00Z",
       "notes": "Добавлен с culture.ru. Автор: Николай Гумилёв. 3 четверостишия, 1917 г."
+    },
+    {
+      "stage": "lyrics",
+      "date": "2026-07-27T23:30:00Z",
+      "notes": "Lyrics: Chorus = строфа 1 (хук), Verses = 2 и реприза, Bridge = строфа 3."
+    },
+    {
+      "stage": "music",
+      "date": "2026-07-27T23:35:00Z",
+      "notes": "Suno-формат: 90s Russian tragic pop-ballad, 120 BPM, male vocal."
     }
   ]
 }

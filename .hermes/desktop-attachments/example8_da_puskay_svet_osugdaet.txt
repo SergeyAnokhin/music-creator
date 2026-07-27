@@ -1,0 +1,70 @@
+Genre: 90s Russian pop ballad, Style: nostalgic slow pop with soft synth layers and subtle romantic guitar, Mood: melancholic, pleading, heartfelt, Instrumentation: gentle electronic drums, airy synth pads, warm clean guitar with reverb, soft orchestral strings, emotional piano overlays, Structure: 0:00 [vocoder spoken hook] + [orchestral hit stab]  0:10 Intro (ambient piano + pad)  0:25 Verse 1  0:55 Chorus  1:20 Short solo (guitar + strings)  1:35 Verse 2  2:05 Chorus  2:30 Bridge (emotional spoken-line + instrumental swell)  2:50 Final Chorus + slow fade-out, Mastering: modern clean production, wide stereo field, 14 LUFS loudness, soft compression for vocal warmth, female lead vocal, no backings, but emotional [Vocal_Chops] and light [Reverb FX] in key phrases,       —      90-
+
+[Female_Vocal]
+[Intro]
+[vocoder spoken hook: «  …  …»]
+[orchestral hit stab]
+[Instrument: Ambient Piano, Warm Pad]
+
+[Verse]
+!    .
+!    !
+  ,  
+   !
+
+[Chorus]
+      ,
+   .
+     
+     .
+(…   …)
+
+[Solo]
+[Instrument: Clean Guitar, Soft Strings]
+
+[Verse]
+ ,   ,
+   .
+"      ", —
+   .
+
+[Chorus]
+      ,
+   .
+     
+     .
+(…   …)
+
+[Solo]
+[Instrument: Emotional Guitar, Pad Swell]
+
+[Bridge]
+[Spoken_Shout_Female]    …
+ —    —
+    .
+  —    —
+    !
+
+[Chorus]
+      ,
+   .
+     
+     .
+[FX: Vocal_Chops «…  …»]
+
+[Instrumental Interlude]
+[Instrument: Pad, Piano Echo]
+
+[Bridge]
+!    …
+(… …)
+!    …
+
+[Solo]
+[Instrument: Long Guitar Note + String Rise]
+
+[Outro]
+     
+     .
+( … …)
+

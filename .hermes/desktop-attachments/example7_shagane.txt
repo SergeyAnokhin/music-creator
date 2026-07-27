@@ -1,0 +1,59 @@
+
+
+Genre, Russian pop ballad with oriental flavor (92 BPM, A-minor), Style, Modern tear-jerker: 22 s intro of taiko hits, orchestral stabs and wordless Persian melisma on “Shagane”, then 4/4 piano ballad groove colored by soft darbuka and frame-drum, Verses ride piano-oud unison and fretless-bass slides; choruses bloom with strings, airy pads, ney replies and shimmering name-chops, Mood, Tender, melancholic, nostalgic, Instrumentation, Piano, oud, ney, duduk, darbuka, taiko, frame-drum, fretless bass, strings, Structure, 0:00 intro → 0:22 V1 → 0:52 C1 → 1:22 break → 1:34 V2 → 2:04 C2 → 2:34 bridge → 3:02 double Chorus → 3:46 fade, Mastering, Clean modern mix, −14 LUFS, wide stereo, light tape saturation and glue compression, Vocal, Male lead vocal
+
+
+[Male_Vocal]
+
+[Intro] [Epic_Taiko_Hits + Orchestral_Stab + Melismatic_Chant «Шаганэ» + Desert_Wind_FX]
+Шаганэ, Шаганэ!
+Шаганэ, Шаганэ! (аа-ай…)
+
+[Verse] [Piano_Oud_Unison + Soft_Darbuka]
+Шаганэ ты моя, Шаганэ!
+Потому, что я с севера, что ли,
+Я готов рассказать тебе поле,
+Про волнистую рожь при луне.
+Шаганэ ты моя, Шаганэ.
+
+[Chorus] [String_Pads_Swell + Ney_Counterline + Vocal_Chops «Шаганэ»]
+Шаганэ ты моя, Шаганэ!
+Там, на севере, девушка тоже,
+На тебя она страшно похожа,
+Может, думает обо мне… (о-о-о…)
+Шаганэ ты моя, Шаганэ.
+
+[Instrumental_Interlude] [Ney_Solo + Fretless_Bass_Slides]
+
+[Verse] [Qanun_Filigree + Muted_Darbuka]
+Потому, что я с севера, что ли,
+Что луна там огромней в сто раз,
+Как бы ни был красив Шираз,
+Он не лучше рязанских раздолий.
+Потому, что я с севера, что ли.
+
+[Chorus]
+Шаганэ ты моя, Шаганэ!
+Там, на севере, девушка тоже,
+На тебя она страшно похожа,
+Может, думает обо мне…
+Шаганэ ты моя, Шаганэ.
+
+[Bridge] [Half-Time_Taiko + Choir_Backings + Hand-Pan_Gliss]
+Про волнистую рожь при луне.
+(Про волнистую рожь при луне.)
+Про волнистую рожь при луне.
+Шаганэ ты моя, Шаганэ.
+
+[Solo] [Duduk_Warm_Legato + Vocal_Chops «Шаганэ»]
+
+[Chorus] [Full_String_Swell + Ney_Reply]
+Шаганэ ты моя, Шаганэ!
+Там, на севере, девушка тоже,
+На тебя она страшно похожа,
+Может, думает обо мне… (аа-а-а…)
+Шаганэ ты моя, Шаганэ.
+
+[Outro] [Melismatic_Chant_Fade + Reversed_Cymbals]
+Может, думает обо мне…
+Шаганэ ты моя, Шаганэ.
